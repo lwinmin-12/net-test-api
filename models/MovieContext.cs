@@ -12,4 +12,3 @@ namespace netCRUD.Models
 		public DbSet<Movie> Movies { get; set; } = null!;
 	}
 }
-
